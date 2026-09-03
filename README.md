@@ -73,7 +73,7 @@ Open `train.ipynb` and run all cells. It will:
 
 ## Dataset
 
-The demo task is English → Bengali translation, using an [English–Bengali parallel corpus from Kaggle](#) *(add your specific dataset link here)*, stored at `docs/en_bn.csv` with `en_text` and `bn_text` columns.
+The demo task is English → Bengali translation, using the [English to Bengali for Machine Translation](https://www.kaggle.com/datasets/sayedshaun/english-to-bengali-for-machine-translation) dataset from Kaggle, stored at `docs/en_bn.csv` with `en_text` and `bn_text` columns.
 
 ## Configuration
 
